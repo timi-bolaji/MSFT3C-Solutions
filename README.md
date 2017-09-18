@@ -4,4 +4,4 @@ Recently, on the 29th of July, 2017, Microsoft organized a coding competition fo
 
 I am still trying to obtain the actual questions for the problems, and if I am unable to do so, I will reconstruct the questions to the best of my ability, from memory.
 
-Also, it should be noted that the [Strict Credentials](github.com/timi-bolaji) problem has not been solved. I hope to find the time to have a good go at solving it soon.
+Also, it should be noted that the [Strict Credentials](Source Code/Strict Credentials) problem has not been solved. I hope to find the time to have a good go at solving it soon.
