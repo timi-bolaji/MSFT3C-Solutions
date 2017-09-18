@@ -1,0 +1,7 @@
+Find stronger and weaker group
+Iterate through weaker group.
+create two lists for each group.
+create multidimensional array for pairs.
+
+For each one in weaker group, do max tasks with stronger group, until kini is exhausted.
+Store tasks done in jagged array.

@@ -1,0 +1,16 @@
+Recursion will be used. (DFS)
+
+use x and y coordinates to represent each point.
+Read entire file into multidimensional array
+
+Need to keep track of letter progress.
+Keep track of live map for each iteration.
+
+Enter Find(arg MAP) function
+if we reach end, return true and update gloval with self map
+Check for matches of next letter in x+1,y+1,x-1,y-1 (constraints are boundary and mapped frontier)
+
+if match is found, replace position with + and call self, passing in map
+if no match found, return false.
+
+If true is returned from self call, keep on returning true

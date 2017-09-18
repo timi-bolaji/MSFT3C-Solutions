@@ -1,0 +1,16 @@
+Break string into list of text. 
+Write palindrome function.
+concatenate substrings
+check iF all substrings are palindromes.
+if palindrome, check if longest.
+if longest, record, initial index and final index
+loop
+Output longest one.
+
+
+
+checking for palindromes
+reverse
+compare
+return
+

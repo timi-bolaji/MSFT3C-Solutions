@@ -1,0 +1,8 @@
+*.exe
+
+Debug/
+
+.vs/
+*.config
+Properties/
+*.sln
